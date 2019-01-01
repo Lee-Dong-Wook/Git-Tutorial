@@ -6,3 +6,11 @@ printf("character");
 return 0;
 
 }
+
+void eatFood(){
+
+printf("yam yam");
+
+}
+
+dfdffdf
